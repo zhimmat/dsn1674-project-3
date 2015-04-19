@@ -1,9 +1,116 @@
 html {
   box-sizing: border-box;
-  font-family: 'Dosis', sans-serif;
 }
-
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+.masthead{
+  background-image: url("../images/background.jpg");
+  background-repeat: repeat-y;
+  background-position: right 20px, left 20px, left top;
+  display: block;
+  margin-top: -2em;
+  padding-bottom: 3.3em;
+  padding-top: 2em;
+}
+
+h1{
+  font-weight: bold;
+  font-size: 4em;
+  text-align: center;
+  margin: 0;
+  padding-bottom: .2em;
+  font-family: 'Lobster', cursive;
+  color: #cc3300;
+}
+
+div{
+  display: block;
+}
+nav{
+  float: left;
+  overflow: hidden;
+  width: 100%;
+}
+
+nav li{
+  float: left;
+  margin: 0;
+  width: 25%;
+  text-align: center;
+  font-weight: bold;
+}
+
+ol li{
+  font-size: 1em;
+  text-decoration: none;
+}
+
+nav{
+  float: left;
+  overflow: hidden;
+  width: 100%;
+}
+
+nav ol{
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  overflow: hidden;
+}
+nav a{
+  color: #cccccc;
+  text-decoration: none;
+  font-size: .99rem;
+  padding: 0.999em;
+  text-align: center;
+  text-decoration: none;
+  background-color: #333333;
+  opacity: .5;
+  display: block;
+  font-family: 'Lobster', cursive;
+}
+
+h2{
+padding-top: 7em;
+padding-bottom: 8em;
+color: #fff;
+font-size: 2em;
+width: 100%;
+text-align: center;
+margin: 0;
+font-weight: bold;
+font-family: 'Roboto', sans-serif;
+background-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.5))
+}
+
+.banner{
+  background-image: url("../images/indian-food3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block;
+  margin: 0;
+}
+
+.footer{
+  opacity: 0.5;
+  padding: 2em;
+}
+
+  footer{
+  background-image: url("../images/background.jpg");
+}
+
+div {
+  padding: 0;
+  text-align: center;
+}
+
+p{
+  font-size: .8em;
+  font-family: 'Roboto', sans-serif;
+  color: #cc3300;
+  text-align: center 10px;
 }
