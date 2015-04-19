@@ -113,3 +113,11 @@ p{
   font-family: 'Roboto', sans-serif;
   color: #cc3300;
 }
+
+.pic1{
+  background-image: url("../images/background.jpg");
+}
+
+.interior1{
+  width: 50%;
+}
