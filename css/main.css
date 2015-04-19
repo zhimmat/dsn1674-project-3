@@ -8,8 +8,6 @@ html {
 
 .masthead{
   background-image: url("../images/background.jpg");
-  background-repeat: repeat-y;
-  background-position: right 20px, left 20px, left top;
   display: block;
   margin-top: -2em;
   padding-bottom: 3.3em;
