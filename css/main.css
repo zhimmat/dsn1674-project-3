@@ -171,3 +171,28 @@ h4{
   font-size: 2em;
   font-family: 'Roboto', sans-serif;
 }
+.p3{
+  color: black;
+  text-align: center;
+}
+
+a{
+  color: #cc3300;
+  text-decoration: none;
+}
+
+.bar2{
+    background-color: #cc6600;
+  padding: 1em;
+  }
+
+table{
+  width: 100%;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  padding: 0;
+  margin: 0;
+}
