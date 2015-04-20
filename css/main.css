@@ -40,6 +40,10 @@ nav li{
   text-align: center;
   font-weight: bold;
 }
+nav li:hover{
+  background-color: #666666;
+  opacity: 0.8;
+}
 
 ol li{
   font-size: 1em;
@@ -70,6 +74,7 @@ nav a{
   display: block;
   font-family: 'Lobster', cursive;
 }
+
 
 h2{
 padding-top: 7em;
