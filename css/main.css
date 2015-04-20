@@ -148,3 +148,26 @@ p{
 .indian4{
   width: 100%;
 }
+
+h3{
+  color: #cc6600;
+  text-align: center;
+  font-size: 2em;
+  font-family: 'Roboto', sans-serif;
+}
+
+iframe{
+  width:100%;
+}
+
+.bar1{
+  background-color: #cc6600;
+padding: 1em;
+}
+
+h4{
+  color: white;
+  text-align: center;
+  font-size: 2em;
+  font-family: 'Roboto', sans-serif;
+}
