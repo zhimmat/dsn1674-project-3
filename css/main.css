@@ -119,7 +119,12 @@ p{
   color: white;
   text-align: center;
 }
-
+.p2{
+  font-size: 1em;
+  font-family: 'Roboto', sans-serif;
+  color: #cc3300;
+  text-align: center;
+}
 .pic1{
   background-image: url("../images/background.jpg");
 }
