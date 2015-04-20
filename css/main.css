@@ -116,7 +116,8 @@ div {
 p{
   font-size: 1em;
   font-family: 'Roboto', sans-serif;
-  color: #cc3300;
+  color: white;
+  text-align: center;
 }
 
 .pic1{
@@ -125,4 +126,16 @@ p{
 
 .interior1{
   width: 50%;
+  border-radius: 22em;
+  padding-top: 2em;
+}
+
+.pic2{
+  background-image: url("../images/background.jpg");
+}
+
+.indian1{
+  width: 50%;
+  border-radius: 22em;
+  padding-top: 2em;
 }
