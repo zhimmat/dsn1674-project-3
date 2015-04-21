@@ -10,7 +10,7 @@ html {
   background-image: url("../images/background.jpg");
   display: block;
   margin-top: -2em;
-  padding-bottom: 3.3em;
+  padding-bottom: 2.6em;
   padding-top: 2em;
 }
 
@@ -64,8 +64,8 @@ nav ol{
 }
 nav a{
   color: #cccccc;
-  font-size: .99rem;
-  padding: 0.95em;
+  font-size: .84rem;
+  padding: 0.96em;
   text-align: center;
   text-decoration: none;
   background-color: #333333;
